@@ -1,5 +1,9 @@
 # Seedance 2.0 Mini AI Video Generator
 
+![Seedance 2.0 Mini AI Video Generator logo](./logo.png)
+
+![Seedance 2.0 Mini AI Video Generator preview](./cover.png)
+
 ## Overview
 
 [Seedance 2.0 Mini AI Video Generator](https://www.jxp.com/seedance/seedance-2-mini) helps creators turn lightweight prompts and visual ideas into faster cinematic video drafts.
@@ -28,4 +32,3 @@ prompt -> reference image -> short render -> review pacing -> revise scene -> ex
 ## Product Link
 
 Explore the official [Seedance 2.0 Mini AI Video Generator product page](https://www.jxp.com/seedance/seedance-2-mini) for the latest workflow details and examples.
-
